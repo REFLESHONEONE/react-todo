@@ -1,3 +1,2 @@
-https://reacttodoslocalstorage.netlify.app/
 
 ### todolist-list....
